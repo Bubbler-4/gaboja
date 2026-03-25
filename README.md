@@ -1,5 +1,13 @@
 # Gaboja: CLI helper for solving BOJ problems
 
+> [!NOTE]
+> BOJ의 제출 버튼 CAPTCHA 업데이트 등으로 인해 gaboja의 동작은 더 이상 보장되지 않습니다.
+
+> [!WARNING]
+> [2026년 3월 25일자 BOJ 공지](https://www.acmicpc.net/board/view/165526)에 의하면, 자동 제출 도구를 사용할 경우 모든 제출 삭제, 사이트 이용 정지 등의 불이익을 받을 수 있습니다.
+> 
+> gaboja 개발진은 gaboja를 사용하여 발생한 모든 불이익에 대하여 책임을 지지 않습니다.
+
 ## Gaboja를 사용하기 전에
 
 다음의 프로그램들이 설치되어 있어야 합니다.
